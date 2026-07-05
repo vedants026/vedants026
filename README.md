@@ -1,7 +1,7 @@
 # Heyy, I'm Vedant 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9419F7&center=true&vCenter=true&width=650&lines=Probably+fixing+a+typo+on+line+44;Dodging+bugs+and+burning+highlights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23A18E&center=true&vCenter=true&width=650&lines=Probably+fixing+a+typo+on+line+44;Dodging+bugs+and+burning+highlights" alt="Typing SVG" />
 </div>
 
 Welcome to my corner of GitHub!
@@ -48,12 +48,16 @@ Welcome to my corner of GitHub!
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedants26&theme=react-dark&hide_border=true&color=9419F7" alt="Vedant's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedants26&theme=react-dark&hide_border=true&color=23A18E" alt="Vedant's Activity Graph" width="100%" />
 </p>
 
+<p align="center">
+  <!-- The Streak & Total Contributions Card (Bypassing Vercel) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedants26&theme=dark&hide_border=true&background=121212&stroke=858585&ring=23A18E&fire=23A18E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=23A18E&sideLabels=23A18E&dates=858585" alt="Total Contributions & Streak" width="70%" />
+</p>
 
 ---
 
