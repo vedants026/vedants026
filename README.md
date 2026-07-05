@@ -1,4 +1,4 @@
-# Heyyy, I'm Vedant 👋
+# Heyy, I'm Vedant 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9419F7&center=true&vCenter=true&width=650&lines=Probably+fixing+a+typo+on+line+44;Dodging+bugs+and+burning+highlights" alt="Typing SVG" />
